@@ -9,8 +9,8 @@ You can upgrade your live, damage, fire rate and the number of bullets that you 
 The duration is approximately 30 minutes, and there is no way to save progress because is not a long game.
 
 ## Controls
-In Game and menu: \n
-  Arrow keys: Move the ship /n
+In Game and menu: 
+  Arrow keys: Move the ship 
   A: Shot
 In shop:
   Up and down: Select the product
