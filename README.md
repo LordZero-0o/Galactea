@@ -15,20 +15,20 @@ The duration is approximately 30 minutes, and there is no way to save progress b
 ## Controls
 In Game and menu: 
 
-    Arrow keys: Move the ship 
+   Arrow keys: Move the ship 
   
-    A: Shot
+   A: Shot
   
 In shop:
 
-  Up and down: Select the product
+   Up and down: Select the product
   
-  A: Buy (if you have the money)
+   A: Buy (if you have the money)
   
-  B: Exit
+   B: Exit
   
 In credits and victory screen:
 
-  A: Go to the next scene or Exit
+   A: Go to the next scene or Exit
   
 # Thanks for download my game and have fun :)
