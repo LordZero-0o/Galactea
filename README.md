@@ -8,7 +8,7 @@ When you kill enemys, they drop spacial money, and you can use that money to imp
 You can upgrade your live, damage, fire rate and the number of bullets that you shoot.
 The duration is approximately 30 minutes, and there is no way to save progress because is not a long game.
 
-# Controls
+## Controls
 In Game and menu:
   Arrow keys: Move the ship
   A: Shot
