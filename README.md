@@ -15,9 +15,9 @@ The duration is approximately 30 minutes, and there is no way to save progress b
 ## Controls
 In Game and menu: 
 
-  Arrow keys: Move the ship 
+    Arrow keys: Move the ship 
   
-  A: Shot
+    A: Shot
   
 In shop:
 
