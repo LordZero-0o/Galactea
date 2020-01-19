@@ -1,5 +1,6 @@
 # Galactea: A simple incremental game created for Arduboy
 Hello, sorry if my English is not the best, i am from Spain.
+
 This is my first completed game for Arduboy, I have made it with a partner in a couple of weekends and we have decided to publish it because we like the result of our project.
 
 ## About the game
