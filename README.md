@@ -2,7 +2,7 @@
 Hello, sorry if my English is not the best, i am from Spain.
 This is my first completed game for Arduboy, I have made it with a partner in a couple of weekends and we have decided to publish it because we like the result of our project.
 
-# About the game
+## About the game
 You are a little ship in the middle of the space and your objective is pass throught 3 levels full of enemys and beat a boss at the final of the level 3
 When you kill enemys, they drop spacial money, and you can use that money to improve your ship in the shop.
 You can upgrade your live, damage, fire rate and the number of bullets that you shoot.
