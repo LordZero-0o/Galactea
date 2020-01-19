@@ -29,6 +29,6 @@ In shop:
   
 In credits and victory screen:
 
-		A: Go to the next scene or Exit
+	A: Go to the next scene or Exit
   
 # Thanks for download my game and have fun :)
